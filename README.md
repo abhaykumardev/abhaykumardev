@@ -7,7 +7,10 @@
 <!-- ========================= TYPING ANIMATION ========================= -->
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1100&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Open+Source+Contributor+%40+GSSoC+2026;React+%7C+Node.js+%7C+MongoDB;AI+Explorer+%26+DSA+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=3000&pause=1200&color=FF61D2&center=true&vCenter=true&multiline=true&width=1100&height=120&lines=🚀+Full+Stack+Developer;🌟+Open+Source+Contributor+%40+GSSoC+2026;⚛️+React+%7C+Node.js+%7C+MongoDB;🤖+AI+Explorer+%26+DSA+Enthusiast;🔥+Building+Scalable+Web+Applications" 
+    alt="Typing SVG" 
+  />
 </h3>
 
 
