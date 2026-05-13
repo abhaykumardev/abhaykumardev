@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Abhay Kumar</h1>
-<h3 align="center">🚀 Full Stack Developer | Open Source Contributor @ GSSoC 2026 | AI Explorer</h3>
+<h1 align="center">
+  Hi 👋, I'm 
+  <a href="https://github.com/abhaykumardev">Abhay Kumar</a>
+</h1>
+
+<h3 align="center">
+  🚀 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor+%40+GSSoC+2026;React+%7C+Node.js+%7C+MongoDB;AI+Explorer+%26+DSA+Enthusiast;Building+Real-World+Web+Applications" alt="Typing SVG" />
+</h3>
 
 ---
 
@@ -16,20 +23,25 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:**
-C++ • JavaScript (ES6+) • Python • SQL
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,js,python,mysql" />
+</p>
 
-**Frontend:**
-React.js • Next.js • HTML • CSS • Tailwind CSS
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
 
-**Backend:**
-Node.js • Express.js • REST APIs
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
-**Database:**
-MongoDB • Mongoose
-
-**Tools:**
-Git • GitHub • Postman • Thunder Client • VS Code • MongoDB Atlas
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
@@ -50,9 +62,8 @@ Git • GitHub • Postman • Thunder Client • VS Code • MongoDB Atlas
 * Built reusable components & responsive design
 * Followed modular architecture for scalability
 
-🔗 **Live Demo:** https://fooddelwebapp.netlify.app/
+🔗 **Live Demo:** https://fooddelwebapp.netlify.app/  
 🔗 **GitHub Repo:** https://github.com/abhaykumardev/fooddeliverysite
-
 
 ---
 
@@ -61,7 +72,8 @@ Git • GitHub • Postman • Thunder Client • VS Code • MongoDB Atlas
 * Created dynamic UI with **category-based filtering**
 * Implemented state-driven logic using React
 * Focused on clean and reusable component structure
-* 🔗 **Live Demo:** https://grocerrywebapp.netlify.app/
+
+🔗 **Live Demo:** https://grocerrywebapp.netlify.app/
 
 ---
 
@@ -70,26 +82,52 @@ Git • GitHub • Postman • Thunder Client • VS Code • MongoDB Atlas
 * Designed a **modern developer portfolio**
 * Added smooth animations using Framer Motion
 * Fully responsive across devices
-* 🔗 **Live Demo:** https://myportfoli0app.netlify.app/                        
+
+🔗 **Live Demo:** https://myportfoli0app.netlify.app/
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhaykumardev&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhaykumardev&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhaykumardev&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaykumardev&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaykumardev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-* 📧 Email: [abhaykumar.dev01@gmail.com](mailto:abhaykumar.dev01@gmail.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/contact-abhay-kumar-dev
-* 🐦 X (Twitter): https://x.com/AbhayK40199
+<p align="center">
+  <a href="mailto:abhaykumar.dev01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/contact-abhay-kumar-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/AbhayK40199">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
 
-> I don’t just solve DSA problems — I build real-world applications that scale.
+<div align="center">
+
+> 💡 *I don’t just solve DSA problems — I build scalable real-world applications.*
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhaykumardev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
