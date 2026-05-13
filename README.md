@@ -1,20 +1,16 @@
 <!-- ========================= HEADER / BANNER ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Abhay%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Contributor%20|%20AI%20Explorer&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=270&section=header&text=Abhay%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Contributor%20|%20AI%20Explorer&descAlignY=55&descSize=18" />
 </p>
 
 <!-- ========================= TYPING ANIMATION ========================= -->
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Open+Source+Contributor+%40+GSSoC+2026;React+%7C+Node.js+%7C+MongoDB;AI+Explorer+%26+DSA+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1100&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Open+Source+Contributor+%40+GSSoC+2026;React+%7C+Node.js+%7C+MongoDB;AI+Explorer+%26+DSA+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 </h3>
 
-<!-- ========================= PROFILE VIEWS ========================= -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhaykumardev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 
@@ -152,16 +148,12 @@ https://myportfoli0app.netlify.app/
 
 <p align="center">
 
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/Abhayk911">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 
-  <a href="https://www.codechef.com/">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
-
-  <a href="https://www.hackerrank.com/">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  <a href="https://auth.geeksforgeeks.org/user/abhay9epim">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 
 </p>
@@ -213,6 +205,11 @@ https://myportfoli0app.netlify.app/
 </div>
 
 ---
+<!-- ========================= PROFILE VIEWS ========================= -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhaykumardev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 <!-- ========================= FOOTER ========================= -->
 
