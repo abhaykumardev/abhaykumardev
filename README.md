@@ -10,7 +10,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&repeat=true&width=1000&height=100&lines=🚀+Full+Stack+Developer+%7C+AI+Explorer;🌟+Open+Source+Contributor+%40+GSSoC+2026;⚛️+React+%7C+Node.js+%7C+Express.js+%7C+MongoDB"
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&repeat=true&width=1000&height=100&lines=+Full+Stack+Developer+%7C+AI+Explorer;+Open+Source+Contributor+%40+GSSoC+2026;⚛️+React+%7C+Node.js+%7C+Express.js+%7C+MongoDB"
     alt="Typing SVG"
   />
 </p>
@@ -19,7 +19,7 @@
 
 
 
-# 💫 About Me
+#  About Me
 
 <img 
   align="right" 
