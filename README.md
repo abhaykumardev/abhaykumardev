@@ -8,11 +8,10 @@
 
 <h3 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=3000&pause=1200&color=FF61D2&center=true&vCenter=true&multiline=true&width=1100&height=120&lines=🚀+Full+Stack+Developer;🌟+Open+Source+Contributor+%40+GSSoC+2026;⚛️+React+%7C+Node.js+%7C+MongoDB;🤖+AI+Explorer+%26+DSA+Enthusiast;🔥+Building+Scalable+Web+Applications" 
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=42&duration=3000&pause=1200&color=FF61D2&center=true&vCenter=true&width=1200&height=80&lines=🚀+Full+Stack+Developer+%7C+AI+Explorer;🌟+Open+Source+Contributor+%40+GSSoC+2026" 
     alt="Typing SVG" 
   />
 </h3>
-
 
 
 ---
