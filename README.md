@@ -10,7 +10,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&repeat=true&width=1000&height=100&lines=+Full+Stack+Developer+%7C+AI+Explorer;+Open+Source+Contributor+%40+GSSoC+2026;⚛️+React+%7C+Node.js+%7C+Express.js+%7C+MongoDB"
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&repeat=true&width=1000&height=100&lines=+Full+Stack+Developer+%7C+AI+Explorer;+Open+Source+Contributor+%40+GSSoC+2026;+React+%7C+Node.js+%7C+Express.js+%7C+MongoDB"
     alt="Typing SVG"
   />
 </p>
@@ -30,7 +30,7 @@
 
 - 💻 Full Stack Developer skilled in **React, Node.js, Express & MongoDB**
 - 🚀 Open Source Contributor at **GSSoC 2026**
-- 🧩 Solved **300+ DSA Problems** on LeetCode & GeeksforGeeks
+- 🧩 Solved **200+ DSA Problems** on LeetCode, CodeStudio & GeeksforGeeks
 - 🔥 Passionate about building **real-world scalable applications**
 - 🤖 Exploring **AI integrations & modern web technologies**
 - 🎯 Goal: Become a top Software Development Engineer (SDE)
@@ -63,7 +63,7 @@
 ## 🎨 Frontend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 </p>
 
 ---
@@ -79,7 +79,7 @@
 ## 🛠️ Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
 </p>
 
 ---
