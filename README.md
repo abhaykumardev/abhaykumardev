@@ -40,13 +40,13 @@
 
 ---
 
-# 🚀 Currently Working On
+#  Currently Working On
 
-- 🔭 Building advanced **MERN Stack Projects**
-- 🌱 Learning **System Design & AI Integrations**
-- 💡 Improving **Problem Solving & DSA**
-- 🤝 Contributing to **Open Source Projects**
-- ⚙️ Exploring scalable backend architectures
+-  Building advanced **MERN Stack Projects**
+-  Learning **System Design & AI Integrations**
+-  Improving **Problem Solving & DSA**
+-  Contributing to **Open Source Projects**
+-  Exploring scalable backend architectures
 
 ---
 
